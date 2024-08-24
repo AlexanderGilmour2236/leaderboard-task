@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a51388d9ba7545b4a7986f86fce0461a, type: 3}
+  m_Name: LeaderboardSpritesData
+  m_EditorClassIdentifier: 
+  <WinnersPlayerEntrySprites>k__BackingField:
+  - {fileID: 21300000, guid: 4e77bfead3d31404498cf08a8fb7cddc, type: 3}
+  - {fileID: 21300000, guid: cd0b184cf70c1844a81c78e0ea092f0b, type: 3}
+  - {fileID: 21300000, guid: a42b12fcfcc71b441b92a48637ad9cf7, type: 3}
+  - {fileID: 21300000, guid: 3ef4dfc03609d98449e990fb9c907d98, type: 3}
+  - {fileID: 21300000, guid: 432742e7e76006544b46f524fc1a7cb7, type: 3}
+  <WinnersPlayerFrameSprites>k__BackingField:
+  - {fileID: 21300000, guid: f47860ddf1ec65147992d4a45e2db6ad, type: 3}
+  - {fileID: 21300000, guid: b12a4a39de04fb64fa40de3a6f48aafb, type: 3}
+  - {fileID: 21300000, guid: 2f57b19b9177694419ea443a1a838264, type: 3}
+  - {fileID: 21300000, guid: 53e37da78c7d8e44499b3c1ac4ae4606, type: 3}
+  - {fileID: 21300000, guid: 2944c88eb48aa5245875aef07dde8bdd, type: 3}
+  <WinnersPlayerTextColors>k__BackingField:
+  - {r: 0.67058825, g: 0.23529413, b: 0, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0, g: 1, b: 0.79607844, a: 1}
+  - {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 1}
+  - {r: 0.8490566, g: 0.8490566, b: 0.8490566, a: 1}

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: leaderboard
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 07c552f79cf371a43a91d32d18f287f4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3ef4dfc03609d98449e990fb9c907d98, type: 3}
+  - {fileID: 21300000, guid: 1d5a4c74bc726f64cb8f732a4adcf9f0, type: 3}
+  - {fileID: 21300000, guid: 53e37da78c7d8e44499b3c1ac4ae4606, type: 3}
+  - {fileID: 21300000, guid: 432742e7e76006544b46f524fc1a7cb7, type: 3}
+  - {fileID: 21300000, guid: b12a4a39de04fb64fa40de3a6f48aafb, type: 3}
+  - {fileID: 21300000, guid: 4e77bfead3d31404498cf08a8fb7cddc, type: 3}
+  - {fileID: 21300000, guid: 2f57b19b9177694419ea443a1a838264, type: 3}
+  - {fileID: 21300000, guid: cd0b184cf70c1844a81c78e0ea092f0b, type: 3}
+  - {fileID: 21300000, guid: a42b12fcfcc71b441b92a48637ad9cf7, type: 3}
+  - {fileID: 21300000, guid: f47860ddf1ec65147992d4a45e2db6ad, type: 3}
+  - {fileID: 21300000, guid: 0ca622edd547c1b488ecd513f89ad1f2, type: 3}
+  - {fileID: 21300000, guid: 2944c88eb48aa5245875aef07dde8bdd, type: 3}
+  - {fileID: 21300000, guid: b982f7dfed2ac554095ae80ff88ce092, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Button01_Orange
+  - StageFrame_n_Purple
+  - Button_Hexagon199_Red
+  - Button02_Blue
+  - StageFrame_n_Yellow
+  - Button02_Yellow
+  - StageFrame_n_Blue
+  - Button01_Sky
+  - Button01_Purple
+  - Slider_Level01_Badge_Blue
+  - loading
+  - StageFrame_d
+  - Popup01_Single_Navy
+  m_RenderDataMap: {}
+  m_Tag: leaderboard
+  m_IsVariant: 0
